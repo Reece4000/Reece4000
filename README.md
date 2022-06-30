@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Reece4000
 
-- 👀 I’m interested in learning more about programming and machine learning in the context of genetics, biotechnology, software development, algorithmic music composition, and DSP
+- 👀 I’m interested in learning more about genetics, biotechnology, software development, algorithmic music composition, and DSP.
 
-- 🌱 I’m currently learning python, HTML, CSS
+- 🌱 I’m currently learning Python, Java, HTML, and CSS.
 
 - 💞️ I’m looking to collaborate on ...
 
